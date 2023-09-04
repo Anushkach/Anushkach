@@ -14,6 +14,6 @@ I’m a chemical engineering student at the University of Moratuwa, where I’m 
 * My experience as a student at the University of Moratuwa
 * My hobbies and interests such as reading, listening, and coding.
 
-- 📫 How to reach me …
+- 📫 How to reach me …  
 Email: anushkachathuranga1998@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anushka1998/  
