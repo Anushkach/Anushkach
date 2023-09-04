@@ -1,7 +1,7 @@
 Hi there 👋
 I’m a chemical engineering student at the University of Moratuwa, where I’m studying Chemical and Process engineering. I’m passionate about learning new things and solving problems with data and algorithms.
 
-- 🔭 I’m currently working on …
+-- 🔭 I’m currently working on …
 * Completing the SYDE 522 – Machine Intelligence course and uploading my notes and projects to [this repository].
 * Building a web app that uses computer vision for image classification.
 * Participating in Kaggle competitions and improving my data science skills.
