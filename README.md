@@ -5,12 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnushkaCh&theme=algolia" alt="AnushkaCh" /></a> </p>
 
-- 🔭 I’m currently working on **Udacity AI Programming with python Nanodegree Program and OCI certified Data Science Professional Cerfification Exam**
-- 🌱 I’m currently learning **Data Strutures and Algorithms, Deep learning frameworks such as TensorFlow, Keras, and PyTorch, Computer vision techniques such as object detection, face recognition, and image segmentation, Reinforcement learning algorithms such as Q-learning, policy gradient, and deep Q-network**
+- 🔭 I’m currently working on **Kaggle PS competitions and Mastering Pytorch**
+- 🌱 I’m currently learning **Data Strutures and Algorithms, Theoritical ML and DL, Deep learning frameworks such as TensorFlow, Keras, and PyTorch, Computer vision techniques such as object detection, face recognition, and image segmentation, Reinforcement learning algorithms such as Q-learning, policy gradient, and deep Q-network**
 - 💬 Ask me about **Anything related to machine learning, data science, or artificial intelligence.**
 - 📫 How to reach me **anushkachathuranga1998@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Anushkach**
-- 📝 I write articles on **https://medium.com/@anuwaz98**
 
 <div> <a href="https://twitter.com/anushka19981009" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anushka1998" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
